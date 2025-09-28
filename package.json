@@ -34,7 +34,7 @@
     "node-schedule": "^2.1.1",
     "nodemailer": "^6.9.13",
     "nodemon": "^3.1.0",
-    "pdfkit": "^0.15.0",
+    "pdfkit": "^0.17.2",
     "reselect": "^5.1.0"
   }
 }
